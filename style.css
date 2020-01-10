@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+
+
+#title {
+    font-size: 2.5rem;
+}
+.blurb {
+    padding-top: 30px;
+    font-size: 1.5rem;
+    text-align: center;
+    
+}
+
+#image {
+width: auto;
+height: auto;
+margin-left: auto;
+margin-right: auto;
+display: block;
+padding: 50px 0 10px 0;
+border-radius: 20%;
+box-shadow: 1px 2px 4px rgba(0, 0, 0, .5);
+padding: 10px;
+background: white;
+max-width: 100%;
+}
+
+
+
+figcaption {
+    margin: 25px 0 60px 0;
+}
+
+
+
+#tribute-info {
+    padding-top: 40px;
+  
+    
+}
+
+.info {
+    line-height: 2.5;
+    text-align: left;
+    display: block;
+    margin: 0 auto 60px auto;
+    max-width: 600px;
+}
+
+.time-line {
+    padding-bottom: 30px;
+    font-size:1.5rem;
+    
+}
+
+.quote {
+    font-style: italic;
+    max-width: 600px;
+    margin: 80px auto 60px auto;
+    text-align: center;
+  }
+
+  .quote-name {
+      margin-bottom: 60px;
+  }
+
+  footer {
+      margin: 70px 0 70px 0;
+  }
+
+  hr {
+      width: 20%;
+      height: 0;
+      color: lightgrey;
+      border:solid;
+      border-radius: 20%;
+   
+  }
